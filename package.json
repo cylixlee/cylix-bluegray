@@ -1,6 +1,11 @@
 {
   "name": "cylix-bluegray",
   "displayName": "Cylix BlueGray",
+  "publisher": "cylix-lee",
+  "icon": "icon.png",
+  "repository": {
+    "url": "https://github.com/cylixlee/cylix-bluegray"
+  },
   "description": "A light theme with blue gray as accent color.",
   "version": "0.0.1",
   "engines": {
