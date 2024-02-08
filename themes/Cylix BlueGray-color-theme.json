@@ -18,7 +18,9 @@
 		"button.background": "#8a979b",
 		// Sidebar
 		"sideBar.background": "#eef0f1",
-		"sideBarSectionHeader.background": "#cdd2d4"
+		"sideBarSectionHeader.background": "#cdd2d4",
+		// Menu Bar
+		"menu.selectionBackground": "#8a979b"
 	},
 	"tokenColors": [
 		{
