@@ -1,0 +1,21 @@
+{
+  "name": "cylix-bluegray",
+  "displayName": "Cylix BlueGray",
+  "description": "A light theme with blue gray as accent color.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cylix BlueGray",
+        "uiTheme": "vs",
+        "path": "./themes/Cylix BlueGray-color-theme.json"
+      }
+    ]
+  }
+}
