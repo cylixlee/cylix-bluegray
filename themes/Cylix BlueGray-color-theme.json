@@ -20,7 +20,10 @@
 		"sideBar.background": "#eef0f1",
 		"sideBarSectionHeader.background": "#cdd2d4",
 		// Menu Bar
-		"menu.selectionBackground": "#8a979b"
+		"menu.selectionBackground": "#8a979b",
+		// Line Number
+		"editorLineNumber.foreground": "#00000055",
+		"editorLineNumber.activeForeground": "#000000AA"
 	},
 	"tokenColors": [
 		{

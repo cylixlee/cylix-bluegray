@@ -7,7 +7,7 @@
     "url": "https://github.com/cylixlee/cylix-bluegray"
   },
   "description": "A light theme with blue gray as accent color.",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.86.0"
   },
